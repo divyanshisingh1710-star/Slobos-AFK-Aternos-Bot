@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "void_craft_smp.aternos.me",
+    "ip": "void_craft_smp.aternos.me:14925",
     "port": 14925,
     "version": "",
     "try-creative": false
